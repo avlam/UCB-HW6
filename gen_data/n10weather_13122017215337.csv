@@ -1,0 +1,11 @@
+City,Country Code,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,URL
+Ushuaia,AR,-54.8,-68.3,60.8,38,40,11.41,"http://api.openweathermap.org/data/2.5/weather?q=ushuaia,ar&units=imperial&appid=InsertKey"
+Albany,AU,-35.02,117.89,60.66,87,88,4.94,"http://api.openweathermap.org/data/2.5/weather?q=albany,au&units=imperial&appid=InsertKey"
+Voi,KE,-3.39,38.56,69.16,77,0,3.83,"http://api.openweathermap.org/data/2.5/weather?q=voi,ke&units=imperial&appid=InsertKey"
+La Ronge,CA,55.1,-105.28,24.8,92,90,2.24,"http://api.openweathermap.org/data/2.5/weather?q=la ronge,ca&units=imperial&appid=InsertKey"
+Kapaa,US,22.08,-159.32,74.39,56,75,21.92,"http://api.openweathermap.org/data/2.5/weather?q=kapaa,us&units=imperial&appid=InsertKey"
+Filingue,NE,14.35,3.32,76.59,48,64,8.75,"http://api.openweathermap.org/data/2.5/weather?q=filingue,ne&units=imperial&appid=InsertKey"
+Hilo,US,19.73,-155.09,67.17,73,40,12.75,"http://api.openweathermap.org/data/2.5/weather?q=hilo,us&units=imperial&appid=InsertKey"
+Hithadhoo,MV,-0.6,73.08,81.76,100,44,7.74,"http://api.openweathermap.org/data/2.5/weather?q=hithadhoo,mv&units=imperial&appid=InsertKey"
+Avarua,CK,-21.21,-159.78,82.4,78,75,5.82,"http://api.openweathermap.org/data/2.5/weather?q=avarua,ck&units=imperial&appid=InsertKey"
+Rikitea,PF,-23.12,-134.97,76.09,100,12,15.01,"http://api.openweathermap.org/data/2.5/weather?q=rikitea,pf&units=imperial&appid=InsertKey"
